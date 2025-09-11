@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Game+Programmer;Always+learning+new+things;Unreal+%26+C%2B%2B" alt="Typing SVG" />
 </div>
 
-I'm a Game Programmer based in the Netherlands. 
+I'm a Gameplay Programmer based in the Netherlands. 
 I have 5 years of experience in the game industry, specializing in gameplay and UI programming.
 I work fluently with Unreal Engine 5.6 (C++20) and Unity 6 (C#), using the strengths of each engine to design, implement, and optimize gameplay features.
 I have worked with teams ranging from under 20 people to over 200, collaborating closely with game designers to refine mechanics and with artists to align visuals with gameplay.
