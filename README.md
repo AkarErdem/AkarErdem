@@ -1,11 +1,12 @@
 # Hello, I'm Erdem! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Game+Developer;Always+learning+new+things;Unity+%26+C%23" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Game+Programmer;Always+learning+new+things;Unreal+%26+C%2B%2B" alt="Typing SVG" />
 </div>
 
 I'm a Game Programmer based in the Netherlands. 
-I have 5 years of experience with Unity and C#, specializing in gameplay and UI programming. 
+I have 5 years of experience in the game industry, specializing in gameplay and UI programming.
+I work fluently with Unreal Engine 5.6 (C++20) and Unity 6 (C#), using the strengths of each engine to design, implement, and optimize gameplay features.
 I have worked with teams ranging from under 20 people to over 200, collaborating closely with game designers to refine mechanics and with artists to align visuals with gameplay.
 
 ### 🛠️ Skills
@@ -13,14 +14,14 @@ I have worked with teams ranging from under 20 people to over 200, collaborating
 **Programming:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,js,html,css,solidity" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,js,html,css,solidity" />
   </a>
 </p>
 
 **Technologies:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,blender,git,github,gitlab,jenkins,azure,firebase" />
+    <img src="https://skillicons.dev/icons?i=unreal,unity,blender,git,github,gitlab,jenkins,azure,firebase" />
   </a>
 </p>
 
@@ -45,12 +46,3 @@ I have worked with teams ranging from under 20 people to over 200, collaborating
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
-<!-- Snake animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AkarErdem/AkarErdem/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AkarErdem/AkarErdem/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Animation" src="https://github.com/AkarErdem/AkarErdem/blob/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
